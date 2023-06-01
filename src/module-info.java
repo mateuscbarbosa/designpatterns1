@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mcbarbosa
+ *
+ */
+module loja {
+}
